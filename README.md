@@ -4,6 +4,10 @@ Getting .NET Core and SharePoint CSOM to Play Nice.
 This was initially hosted on Raju Joseph's site. However it is not longer available.
 http://rajujoseph.com/getting-net-core-and-sharepoint-csom-play-nice/
 
+Also - if you need to deal with Interop objects such as office/excel/etc...
+
+go [here](https://github.com/dotnet/samples/tree/master/core/extensions/ExcelDemo)
+
 Anyways, I stumbled across this when developing a .NET CORE 3.0 WPF.
 
 #### Instructions ####
