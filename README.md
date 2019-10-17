@@ -37,11 +37,7 @@ using Microsoft.SharePoint.Client;
     {
         // sample function for demo purposes.
         // please break this into proper OOP when implementing.
-
-        string username = "milanlucic@flamesplayer.onmicrosoft.com";
-        string password = "Flames17";
-        string siteUrl = "https://milanlucic.sharepoint.com/sites/FLAMES";
-
+        
         ClientContext context = new ClientContext(siteUrl);
         Web site = context.Web;
 
@@ -76,9 +72,9 @@ using Microsoft.SharePoint.Client;
         // sample function for demo purposes.
         // please break this into proper OOP when implementing.
 
-        string username = "milanlucic@flamesplayer.onmicrosoft.com";
-        string password = "Flames17";
-        string siteUrl = "https://milanlucic.sharepoint.com/sites/FLAMES";
+        string username = "#####@#####.onmicrosoft.com";
+        string password = "######";
+        string siteUrl = "https://#####.sharepoint.com/sites/#####";
 
         ClientContext context = new ClientContext(siteUrl);
         Web site = context.Web;
